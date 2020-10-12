@@ -17,6 +17,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
+  border: 1px solid gray;
 }
 
 h4 {
